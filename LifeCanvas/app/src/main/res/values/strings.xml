@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifeCanvas</string>
+    <string name="calendar_api_key">17c5b4e18bmshccafb3e17bba50dp19bff4jsn856f54fb7adb</string>
+    <string name="calendar_host">public-holiday.p.rapidapi.com"</string>
+</resources>
